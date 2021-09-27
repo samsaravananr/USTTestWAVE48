@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14568" started-at="2021-09-25T13:38:22 IST" finished-at="2021-09-25T13:38:36 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14568" started-at="2021-09-25T13:38:22 IST" finished-at="2021-09-25T13:38:36 IST">
+      <class name="com.saravanan.USTTest.AmazonTest">
+        <test-method status="PASS" signature="TS001()[pri:0, instance:com.saravanan.USTTest.AmazonTest@1786dec2]" name="TS001" duration-ms="14462" started-at="2021-09-25T13:38:22 IST" finished-at="2021-09-25T13:38:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS001 -->
+      </class> <!-- com.saravanan.USTTest.AmazonTest -->
+      <class name="com.saravanan.USTTest.GoogleTest">
+        <test-method status="PASS" signature="TS001()[pri:0, instance:com.saravanan.USTTest.GoogleTest@59e5ddf]" name="TS001" duration-ms="13958" started-at="2021-09-25T13:38:22 IST" finished-at="2021-09-25T13:38:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS001 -->
+      </class> <!-- com.saravanan.USTTest.GoogleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
